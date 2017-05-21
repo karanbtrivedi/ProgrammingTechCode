@@ -1,0 +1,6 @@
+c:\users\krn\documents\visual studio 2013\Projects\Pyaramid Example\Pyaramid Example\bin\Debug\Pyaramid Example.exe.config
+c:\users\krn\documents\visual studio 2013\Projects\Pyaramid Example\Pyaramid Example\bin\Debug\Pyaramid Example.exe
+c:\users\krn\documents\visual studio 2013\Projects\Pyaramid Example\Pyaramid Example\bin\Debug\Pyaramid Example.pdb
+c:\users\krn\documents\visual studio 2013\Projects\Pyaramid Example\Pyaramid Example\obj\Debug\Pyaramid Example.csprojResolveAssemblyReference.cache
+c:\users\krn\documents\visual studio 2013\Projects\Pyaramid Example\Pyaramid Example\obj\Debug\Pyaramid Example.exe
+c:\users\krn\documents\visual studio 2013\Projects\Pyaramid Example\Pyaramid Example\obj\Debug\Pyaramid Example.pdb
